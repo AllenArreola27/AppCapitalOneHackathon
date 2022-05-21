@@ -1,5 +1,5 @@
 # AppCapitalOneHackathon
-Hackathon App
+Hackathon Application to improve Banking Experience for users
 
 WHEN?
 - Developed during the Software Engineering Summit that took place from May 16th to May 20th
